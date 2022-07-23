@@ -796,6 +796,7 @@ header {
 
 .active_nav__links {
     color: #29ca8e !important;
+    padding: 20px !important;
     background: #fff;
 }
 
