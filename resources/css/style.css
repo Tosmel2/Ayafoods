@@ -1,4 +1,4 @@
-/* #29ca8e #049660*/
+/* #EF5455 #049660*/
 /* Universal styling */
 @font-face {
     font-family: "lato";
@@ -30,14 +30,14 @@ h2~p {
 }
 
 .btnred {
-    background: #29ca8e;
+    background: #EF5455;
     color: #fff;
 }
 
 .btnred:hover {
-    border: 3px solid #29ca8e;
+    border: 3px solid #EF5455;
     background: rgba(0, 0, 0, 0);
-    color: #29ca8e
+    color: #EF5455
 }
 
 .btnwhite {
@@ -45,9 +45,9 @@ h2~p {
 }
 
 .btnwhite:hover {
-    border: 3px solid #29ca8e;
+    border: 3px solid #EF5455;
     background: rgba(0, 0, 0, 0);
-    color: #29ca8e;
+    color: #EF5455;
 
 }
 
@@ -64,12 +64,12 @@ h2~p {
 }
 
 .spiced_headerText {
-    color: #29ca8e;
+    color: #EF5455;
     font-size: 28px;
     margin: 0 0 30px 0;
     padding: 0 10px;
-    border-left: 5px solid #29ca8e;
-    border-right: 5px solid #29ca8e;
+    border-left: 5px solid #EF5455;
+    border-right: 5px solid #EF5455;
     background: rgba(238, 238, 238, 0.3);
 }
 
@@ -108,7 +108,7 @@ header {
 }
 
 .logo-holder {
-    background: #29ca8e;
+    background: #EF5455;
     width: 100px;
     height: 100px;
     vertical-align: middle;
@@ -150,23 +150,23 @@ header {
 }
 
 .header-link_holder li:hover {
-    border: 2px solid #29ca8e;
+    border: 2px solid #EF5455;
 }
 
 .header-link_holder li a {
     display: block;
     padding: 15px 20px;
     text-decoration: none;
-    color: #29ca8e;
+    color: #EF5455;
 }
 
 .header-banner_button {
-    border: 2px solid #29ca8e;
+    border: 2px solid #EF5455;
     padding: 15px 30px;
 }
 
 .banner-writeup_holder h1 {
-    color: #049660;
+    color: #EF5455;
     font-weight: 400;
     font-size: 55px;
     line-height: 1;
@@ -193,7 +193,7 @@ header {
 
 /* Customer counter */
 .customer-counter {
-    background: #29ca8e;
+    background: #EF5455;
     /* height: 100px; */
     color: #fff;
     text-align: center;
@@ -263,7 +263,7 @@ header {
 }
 
 .text-icon {
-    color: #29ca8e;
+    color: #EF5455;
     margin: 0 10px 0 0;
     font-size: 25px;
 }
@@ -284,7 +284,7 @@ header {
     display: inline-block;
     padding: 0 0px 0 5px;
     border-radius: 50%;
-    background: #29ca8e;
+    background: #EF5455;
     color: #fff;
     text-align: center;
     width: 60px;
@@ -313,7 +313,7 @@ header {
 }
 
 .Explore_food h1 {
-    color: #29ca8e;
+    color: #EF5455;
     margin: 10px 0;
 }
 
@@ -362,7 +362,7 @@ header {
 /* ************************ */
 /* Testimonial section */
 .testimonial {
-    background: #29ca8e;
+    background: #EF5455;
     padding: 30px 0;
 
 }
@@ -482,7 +482,7 @@ header {
 }
 
 .faqcard__container h3 {
-    color: #049660;
+    color: #EF5455;
     margin: 8px 0;
     font-size: 18px;
 }
@@ -495,12 +495,12 @@ header {
 
 .faqcard__container .leaf-icon {
     margin: 0 10px;
-    color: #29ca8e;
+    color: #EF5455;
 
 }
 
 .faqcard__container h1 {
-    color: #29ca8e;
+    color: #EF5455;
     margin: 10px 0;
     text-align: center;
 
@@ -568,7 +568,7 @@ header {
 
 .subscription h1 {
     margin: 15px 0;
-    color: #049660;
+    color: #EF5455;
     font-weight: 700;
     font-size: 36px;
     letter-spacing: 0.3px;
@@ -579,7 +579,7 @@ header {
 }
 
 .subinput {
-    border: 2px solid #29ca8e;
+    border: 2px solid #EF5455;
     border-right: transparent;
     padding: 15px 30px;
     animation: all 2s linear ease-in;
@@ -591,20 +591,20 @@ header {
 
 .subscriptionbtnred {
     padding: 15px 30px;
-    background: #29ca8e;
+    background: #EF5455;
     color: #fff;
-    border: 2px solid #29ca8e;
+    border: 2px solid #EF5455;
 }
 
 .subscriptionbtnred:hover {
-    border: 2px solid #049660;
-    background: #049660;
+    border: 2px solid #EF5455;
+    background: #EF5455;
 }
 
 /* *************************** */
 /* Footer section */
 .footer {
-    background: #29ca8e;
+    background: #EF5455;
     color: #fff;
     padding: 20px 30px;
 
@@ -634,7 +634,7 @@ header {
 }
 
 .footer-btn:hover {
-    background: #049660;
+    background: #EF5455;
     color: #fff;
 }
 
@@ -649,7 +649,7 @@ header {
     width: 36px;
     height: 36px;
     padding: 0 6.5px;
-    background: #29ca8e;
+    background: #EF5455;
     border-radius: 50%;
     text-align: center;
     border: 2px solid #fff;
@@ -660,7 +660,7 @@ header {
 }
 
 .footer-icon_holder:hover {
-    background: #049660;
+    background: #EF5455;
 }
 
 .footer-icon {
@@ -685,7 +685,7 @@ header {
 
 .nav__mobile {
     display: none !important;
-    background: #29ca8e;
+    background: #EF5455;
     border-bottom: 1px solid #eee;
     box-shadow: 10px 2px 5px rgba(0, 0, 0, 0.05);
     padding: 7px 20px;
@@ -752,7 +752,7 @@ header {
 }
 
 .change .bar {
-    background-color: #29ca8e;
+    background-color: #EF5455;
 }
 
 .change #bar1 {
@@ -778,7 +778,7 @@ header {
     top: 0;
     width: 55%;
     height: 1500px;
-    background: #29ca8e;
+    background: #EF5455;
     box-shadow: -6px -20px 5px 1px rgb(0 0 0 / 5%);
 
 }
@@ -795,7 +795,7 @@ header {
 }
 
 .active_nav__links {
-    color: #29ca8e !important;
+    color: #EF5455 !important;
     padding: 20px !important;
     background: #fff;
 }
@@ -803,7 +803,7 @@ header {
 .nav__Mobilelinks ul li a:hover,
 .nav__Mobilelinks ul li a:focus,
 .nav__Mobilelinks ul li a:active {
-    color: #29ca8e;
+    color: #EF5455;
     background: #fff;
 }
 
@@ -819,7 +819,7 @@ header {
 /* animations */
 @keyframes ripple {
     0% {
-        box-shadow: 0 0 0 0 #29ca8e, 0 0 0 0 #29ca8e
+        box-shadow: 0 0 0 0 #EF5455, 0 0 0 0 #EF5455
     }
 
     80% {
@@ -827,6 +827,6 @@ header {
     }
 
     100% {
-        box-shadow: 0 0 0 20 #29ca8e, 0 0 0 40 #29ca8e;
+        box-shadow: 0 0 0 20 #EF5455, 0 0 0 40 #EF5455;
     }
 }
