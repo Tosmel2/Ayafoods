@@ -1,11 +1,11 @@
 # Adnegsfood
 A simple Food business landing page 
-![Project Overview](ProjectOverview.png)
+![Project Overview](projectOverview.png)
 
 # FoodPlug
 
 ## Netlify Link
-- https://Adnegsfood.netlify.app/
+- https://ayafoods.netlify.app/
 
 # Steps to use Application
 - Download Entire code
